@@ -1,0 +1,11 @@
+[Protocol]
+exec=bitalpha-qt '%u'
+protocol=bitalpha
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

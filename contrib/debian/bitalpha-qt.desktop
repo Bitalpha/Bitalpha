@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BitAlpha
+Comment=BitAlpha P2P Cryptocurrency
+Comment[fr]=BitAlpha, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BitAlpha, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/bitalpha-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/bitalpha;
+Categories=Office;
